@@ -13,5 +13,3 @@ You can click the Preview link to take a look at your changes.
 - :100: And these are the languages I use the most!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eashafernandes)](https://github.com/eashafernandes/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${eashafernandes}.${eashafernandes})
