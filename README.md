@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
  
 - 👋 Hi, I’m @eashafernandes
-- 🌱 I’m currently pursuing an internship in Python and NodeJS Development and I am also learning data science and machine learning!
+- 🌱 I have 2 years 9 months of work experience in Python and NodeJS web development, and I am keen to learn and gain exposure in the field of AI.
 - :innocent: Here are my Github Stats!
 
 ![Easha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eashafernandes&show_icons=true&theme=dracula)
